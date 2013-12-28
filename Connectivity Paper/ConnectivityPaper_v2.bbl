@@ -1,0 +1,228 @@
+\begin{thebibliography}{35}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Azouz and Gray(2003)}]{Azouz}
+Azouz, R., Gray, C.~M., 2003. Adaptive coincidence detection and dynamic gain
+  control in visual cortical neurons in vivo. Neuron 37, 513--523.
+
+\bibitem[{Benjamini and Yekutieli(2001)}]{FDR2001}
+Benjamini, Y., Yekutieli, D., 2001. The control of the false discovery rate in
+  multiple testing under dependency. The Annals of Statistics 29~(4).
+
+\bibitem[{Braver(2012)}]{Braver}
+Braver, T.~S., 2012. The variable nature of cognitive control: a dual
+  mechanisms framework. Trends Cogn Sci 16~(2), 106--13.
+
+\bibitem[{Cavanagh et~al.(2009)Cavanagh, Cohen, and Allen}]{Cavanagh}
+Cavanagh, J.~F., Cohen, M.~X., Allen, J.~J., 2009. Prelude to and resolution of
+  an error: Eeg phase synchrony reveals cognitive control dynamics during
+  action monitoring. J Neurosci 29~(1), 98--105.
+
+\bibitem[{Corbetta and Shulman(2002)}]{Corbetta}
+Corbetta, M., Shulman, G.~L., 2002. Control of goal-directed and
+  stimulus-driven attention in the brain. Nat Rev Neurosci 3~(3), 201--215,
+  10.1038/nrn755.
+
+\bibitem[{Delorme and Makeig(2004)}]{Delorme}
+Delorme, A., Makeig, S., 2004. Eeglab: an open source toolbox for analysis of
+  single-trial eeg dynamics using independent component analysis. Journal of
+  Neuroscience Methods 134, 9--21.
+
+\bibitem[{Doesburg et~al.(2009)Doesburg, Green, McDonald, and Ward}]{Doesburg}
+Doesburg, S.~M., Green, J.~J., McDonald, J.~J., Ward, L.~M., 2009. From local
+  inhibition to long-range integration: a functional dissociation of alpha-band
+  synchronization across cortical scales in visuospatial attention. Brain Res
+  1303, 97--110, doesburg, Sam M Green, Jessica J McDonald, John J Ward,
+  Lawrence M Netherlands Brain Res. 2009 Dec 15;1303:97-110. doi:
+  10.1016/j.brainres.2009.09.069. Epub 2009 Sep 24.
+
+\bibitem[{Doesburg and Ward(2007)}]{Doesburg2}
+Doesburg, S.~M., Ward, L.~M., 2007. Long-distance alpha-band meg
+  synchronization maintains selective visual attention. International Congress
+  Series 1300, 551--554.
+
+\bibitem[{Dosenbach et~al.(2008)Dosenbach, Fair, Cohen, Schlaggar, and
+  Petersen}]{Dosenbach}
+Dosenbach, N.~U., Fair, D.~A., Cohen, A.~L., Schlaggar, B.~L., Petersen, S.~E.,
+  2008. A dual-networks architecture of top-down control. Trends Cogn Sci
+  12~(3), 99--105.
+
+\bibitem[{Engel et~al.(2001)Engel, Fries, and Singer}]{Engel}
+Engel, A.~K., Fries, P., Singer, W., 2001. Dynamic predictions: Oscillations
+  and synchrony in top-down processing. Nature Reviews Neuroscience 2,
+  704--716.
+
+\bibitem[{Fries(2005)}]{Fries}
+Fries, P., 2005. A mechanism for cognitive dynamics: neuronal communication
+  through neuronal coherence. Trends in Cognitive Science 9~(10), 474--480.
+
+\bibitem[{Huang et~al.(2013)Huang, She, Chou, Chuang, Duann, and Jung}]{Huang}
+Huang, L.~Y., She, H.~C., Chou, W.~C., Chuang, M.~H., Duann, J.~R., Jung,
+  T.~P., 2013. Brain oscillation and connectivity during a chemistry visual
+  working memory task. Int J Psychophysiol 90~(2), 172--9, huang, Li-Yu She,
+  Hsiao-Ching Chou, Wen-Chi Chuang, Ming-Hua Duann, Jeng-Ren Jung, Tzyy-Ping
+  Netherlands Int J Psychophysiol. 2013 Nov;90(2):172-9. doi:
+  10.1016/j.ijpsycho.2013.07.001. Epub 2013 Jul 9.
+
+\bibitem[{Jensen and Colgin(2007)}]{Jensen}
+Jensen, O., Colgin, L.~L., 2007. Cross-frequency coupling between neuronal
+  oscillations. Trends Cogn Sci 11~(7), 267--9, jensen, Ole Colgin, Laura L
+  England Trends Cogn Sci. 2007 Jul;11(7):267-9. Epub 2007 Jun 4.
+
+\bibitem[{Kahlbrock et~al.(2012)Kahlbrock, Butz, May, and
+  Schnitzler}]{Kahlbrock}
+Kahlbrock, N., Butz, M., May, E.~S., Schnitzler, A., 2012. Sustained gamma band
+  synchronization in early visual areas reflects the level of selective
+  attention. Neuroimage 59~(1), 673--81, kahlbrock, Nina Butz, Markus May,
+  Elisabeth S Schnitzler, Alfons Neuroimage. 2012 Jan 2;59(1):673-81. doi:
+  10.1016/j.neuroimage.2011.07.017. Epub 2011 Jul 19.
+
+\bibitem[{Karayanidis et~al.(2009)Karayanidis, Mansfield, Galloway, Smith,
+  Provost, and Heathcote}]{Karayanidis2009}
+Karayanidis, F., Mansfield, E.~L., Galloway, K.~L., Smith, J.~L., Provost, A.,
+  Heathcote, A., 2009. Anticipatory reconfiguration elicited by fully and
+  partially informative cues that validly predict a switch in task. Cogn Affect
+  Behav Neurosci 9~(2), 202--15, karayanidis, Frini Mansfield, Elise L
+  Galloway, Kasey L Smith, Janette L Provost, Alexander Heathcote, Andrew Cogn
+  Affect Behav Neurosci. 2009 Jun;9(2):202-15. doi: 10.3758/CABN.9.2.202.
+
+\bibitem[{Luu et~al.(2004)Luu, Tucker, and Makeig}]{Luu}
+Luu, P., Tucker, D.~M., Makeig, S., 2004. Frontal midline theta and the
+  error-related negativity: neurophysiological mechanisms of action regulation.
+  Clin Neurophysiol 115~(8), 1821--35.
+
+\bibitem[{Mansfield et~al.(2012)Mansfield, Karayanidis, and
+  Cohen}]{Mansfield2012}
+Mansfield, E.~L., Karayanidis, F., Cohen, M.~X., 2012. Switch-related and
+  general preparation processes in task-switching: evidence from multivariate
+  pattern classification of eeg data. J Neurosci 32~(50), 18253--8, mansfield,
+  Elise L Karayanidis, Frini Cohen, Michael X J Neurosci. 2012 Dec
+  12;32(50):18253-8. doi: 10.1523/JNEUROSCI.0737-12.2012.
+
+\bibitem[{Maris et~al.(2013)Maris, Womelsdorf, Desimone, and Fries}]{Maris}
+Maris, E., Womelsdorf, T., Desimone, R., Fries, P., 2013. Rhythmic neuronal
+  synchronization in visual cortex entails spatial phase relation diversity
+  that is modulated by stimulation and attention. Neuroimage 74, 99--116.
+
+\bibitem[{Miyake et~al.(2000)Miyake, Friedman, Emerson, Witzki, Howerter, and
+  Wager}]{Miyake}
+Miyake, A., Friedman, N.~P., Emerson, M.~J., Witzki, A.~H., Howerter, A.,
+  Wager, T.~D., 2000. The unity and diversity of executive functions and their
+  contributions to complex "frontal lobe" tasks: a latent variable analysis.
+  Cogn Psychol 41~(1), 49--100, miyake, A Friedman, N P Emerson, M J Witzki, A
+  H Howerter, A Wager, T D Cogn Psychol. 2000 Aug;41(1):49-100.
+
+\bibitem[{Moore et~al.(2006)Moore, Gale, Morris, and Forrester}]{Moore2006}
+Moore, R.~A., Gale, A., Morris, P.~H., Forrester, D., 2006. Theta phase locking
+  across the neocortex reflects cortico-hippocampal recursive communication
+  during goal conflict resolution. Int J Psychophysiol 60~(3), 260--73, moore,
+  Roger A Gale, Anthony Morris, Paul H Forrester, Dave Netherlands Int J
+  Psychophysiol. 2006 Jun;60(3):260-73. Epub 2005 Sep 15.
+
+\bibitem[{Moore et~al.(2012)Moore, Mills, Marshman, and Corr}]{Moore2012}
+Moore, R.~A., Mills, M., Marshman, P., Corr, P.~J., 2012. Behavioural
+  inhibition system (bis) sensitivity differentiates eeg theta responses during
+  goal conflict in a continuous monitoring task. Int J Psychophysiol 85~(2),
+  135--44, moore, Roger A Mills, Matthew Marshman, Paul Corr, Philip J
+  Netherlands Int J Psychophysiol. 2012 Aug;85(2):135-44. doi:
+  10.1016/j.ijpsycho.2012.06.006. Epub 2012 Jun 23.
+
+\bibitem[{Nolte et~al.(2004)Nolte, Wheaton, Vorbach, and Hallet}]{Nolte2004}
+Nolte, G., Wheaton, O., Vorbach, S., Hallet, M., 2004. Identifying true brain
+  interaction from eeg data using the imaginary part of coherency. Clinical
+  Neurophysiology 115, 2292/2307.
+
+\bibitem[{Oostenveld et~al.(2011)Oostenveld, Fries, Maris, and
+  Schoffelen}]{Oostenveld}
+Oostenveld, R., Fries, P., Maris, E., Schoffelen, J.~M., 2011. Fieldtrip: Open
+  source software for advanced analysis of meg, eeg, and invasive
+  electrophysiological data. Comput Intell Neurosci 2011, 156869, oostenveld,
+  Robert Fries, Pascal Maris, Eric Schoffelen, Jan-Mathijs Comput Intell
+  Neurosci. 2011;2011:156869. doi: 10.1155/2011/156869. Epub 2010 Dec 23.
+
+\bibitem[{Palva et~al.(2005)Palva, Palva, and Kaila}]{Palva2005}
+Palva, J.~M., Palva, S., Kaila, K., 2005. Phase synchrony among neuronal
+  oscillations in the human cortex. J Neurosci 25~(15), 3962--72, palva, J
+  Matias Palva, Satu Kaila, Kai J Neurosci. 2005 Apr 13;25(15):3962-72.
+
+\bibitem[{Papenberg et~al.(2013)Papenberg, Hammerer, Muller, Lindenberger, and
+  Li}]{Papenberg}
+Papenberg, G., Hammerer, D., Muller, V., Lindenberger, U., Li, S.~C., 2013.
+  Lower theta inter-trial phase coherence during performance monitoring is
+  related to higher reaction time variability: A lifespan study. Neuroimage 83,
+  912--20, papenberg, Goran Hammerer, Dorothea Muller, Viktor Lindenberger,
+  Ulman Li, Shu-Chen Neuroimage. 2013 Dec;83:912-20. doi:
+  10.1016/j.neuroimage.2013.07.032. Epub 2013 Jul 19.
+
+\bibitem[{Pesonen et~al.(2007)Pesonen, Hamalainen, and Krause}]{Pesonen}
+Pesonen, M., Hamalainen, H., Krause, C.~M., 2007. Brain oscillatory 4-30 hz
+  responses during a visual n-back memory task with varying memory load. Brain
+  Res 1138, 171--7, pesonen, Mirka Hamalainen, Heikki Krause, Christina M
+  Netherlands Brain Res. 2007 Mar 23;1138:171-7. Epub 2007 Jan 4.
+
+\bibitem[{Sauseng et~al.(2006)Sauseng, Klimesch, Freunberger, Pecherstorfer,
+  Hanslmayr, and Doppelmayr}]{SausengTSWT}
+Sauseng, P., Klimesch, W., Freunberger, R., Pecherstorfer, T., Hanslmayr, S.,
+  Doppelmayr, M., 2006. Relevance of eeg alpha and theta oscillations during
+  task switching. Exp Brain Res 170~(3), 295--301, sauseng, P Klimesch, W
+  Freunberger, R Pecherstorfer, T Hanslmayr, S Doppelmayr, M P
+  16849-B02/Austrian Science Fund FWF/Austria Germany Exp Brain Res. 2006
+  Apr;170(3):295-301. Epub 2005 Nov 30.
+
+\bibitem[{Sauseng et~al.(2005)Sauseng, Klimesch, Schabus, and
+  Doppelmayr}]{Sauseng2005}
+Sauseng, P., Klimesch, W., Schabus, M., Doppelmayr, M., 2005. Fronto-parietal
+  eeg coherence in theta and upper alpha reflect central executive functions of
+  working memory. Int J Psychophysiol 57~(2), 97--103, sauseng, Paul Klimesch,
+  Wolfgang Schabus, Manuel Doppelmayr, Michael P 16849-B02/Austrian Science
+  Fund FWF/Austria Netherlands Int J Psychophysiol. 2005 Aug;57(2):97-103.
+
+\bibitem[{Seeley et~al.(2007)Seeley, Menon, Schatzberg, Keller, Glover, Kenna,
+  Reiss, and Greicius}]{Seeley}
+Seeley, W.~W., Menon, V., Schatzberg, A.~F., Keller, J., Glover, G.~H., Kenna,
+  H., Reiss, A.~L., Greicius, M.~D., 2007. Dissociable intrinsic connectivity
+  networks for salience processing and executive control. J Neurosci 27~(9),
+  2349--56.
+
+\bibitem[{Serrien et~al.(2004)Serrien, Pogosyan, Cassidy, and Brown}]{Serrien}
+Serrien, D.~J., Pogosyan, A.~H., Cassidy, M.~J., Brown, P., 2004. Anticipatory
+  cortico-cortical interactions: switching the task configuration between
+  effectors. Exp Brain Res 154~(3), 359--67, serrien, Deborah J Pogosyan, Alek
+  H Cassidy, Michael J Brown, Peter Germany Exp Brain Res. 2004
+  Feb;154(3):359-67. Epub 2003 Nov 15.
+
+\bibitem[{Tallet et~al.(2009)Tallet, Barral, and Hauert}]{Tallet}
+Tallet, J., Barral, J., Hauert, C.~A., 2009. Electro-cortical correlates of
+  motor inhibition: a comparison between selective and non-selective stop
+  tasks. Brain Res 1284, 68--76, tallet, Jessica Barral, Jerome Hauert,
+  Claude-Alain Netherlands Brain Res. 2009 Aug 11;1284:68-76. doi:
+  10.1016/j.brainres.2009.05.058. Epub 2009 Jun 2.
+
+\bibitem[{Trujillo and Allen(2007)}]{Trujillo}
+Trujillo, L.~T., Allen, J.~J., 2007. Theta eeg dynamics of the error-related
+  negativity. Clin Neurophysiol 118~(3), 645--68, trujillo, Logan T Allen, John
+  J B Netherlands Clin Neurophysiol. 2007 Mar;118(3):645-68. Epub 2007 Jan 16.
+
+\bibitem[{Vincent et~al.(2008)Vincent, Kahn, Snyder, Raichle, and
+  Buckner}]{Vincent}
+Vincent, J.~L., Kahn, I., Snyder, A.~Z., Raichle, M.~E., Buckner, R.~L., 2008.
+  Evidence for a frontoparietal control system revealed by intrinsic functional
+  connectivity. J Neurophysiol 100~(6), 3328--3342.
+
+\bibitem[{Womelsdorf and Fries(2006)}]{Womelsdorf}
+Womelsdorf, T., Fries, P., 2006. Neuronal coherence during selective
+  attentional processing and sensory-motor integration. J Physiol Paris
+  100~(4), 182--93, womelsdorf, Thilo Fries, Pascal France J Physiol Paris.
+  2006 Oct;100(4):182-93. Epub 2007 Jan 17.
+
+\bibitem[{Wu et~al.(2007)Wu, Chen, Li, Han, and Zhang}]{Wu}
+Wu, X., Chen, X., Li, Z., Han, S., Zhang, D., 2007. Binding of verbal and
+  spatial information in human working memory involves large-scale neural
+  synchronization at theta frequency. Neuroimage 35~(4), 1654--62, wu, Xiang
+  Chen, Xiangchuan Li, Zhihao Han, Shihui Zhang, Daren Neuroimage. 2007 May
+  1;35(4):1654-62. Epub 2007 Feb 15.
+
+\end{thebibliography}
